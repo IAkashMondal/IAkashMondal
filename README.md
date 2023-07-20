@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akash Mondal</h1>
-<h3 align="center" an aspiring Full Stack MERN Developer from India.</h3>
+<h1 align="centre">Hi 👋, I'm Akash Mondal</h1>
+<h3 align="centre" an aspiring Full Stack MERN Developer from India.</h3>
 <h5> with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.</h5>
 
 <div align="center"> <img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" alt="GIF"/>
@@ -16,7 +16,7 @@
 
 - 👨‍💻 My Portfilio [Github.io Link here](https://iakashmondal.github.io/)
 
-- 👨‍💻 My Portfilio [vercel Link here](https://iakashmondal-iakashmondal.vercel.app/)
+- 👨‍💻 My Portfolio [vercel Link here](https://iakashmondal-iakashmondal.vercel.app/)
 
 - 👀 My Github Repositories [Click here](https://github.com/IAkashMondal?tab=repositories)
 
@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wWg3y8BhopSfhfpF4IyRpfDDBZPo9w52/view?usp=sharing)
 
-- ⚡ Question? **Why start up's are focused on US based Investors, Instead of Us consumers ?**
+- ⚡ Question? **Why start up's are focused on US-based Investors, Instead of Us consumers ?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
