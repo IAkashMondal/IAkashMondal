@@ -1,13 +1,14 @@
-<h1 align="centre">Hi 👋, I'm Akash Mondal</h1>
-<h3 align="centre" an aspiring Full Stack MERN Developer from India.</h3>
-<h5> with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.</h5>
+<h1 align="center">Hi 👋, I'm Akash Mondal</h1>
+<h3 align="center"> an aspiring Full Stack MERN Developer from India.</h3>
+<h5 align=" center"> with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.
+</h5>
 
 <div align="center"> <img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" alt="GIF"/>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iakashmondal&label=Profile%20views&color=0e75b6&style=flat" alt="iakashmondal" /> </p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=IAkashMondal&theme=darkhub)](https://github.com/IAkashMondal/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=IAkashMondal&theme=darkhub)](https://github.com/IAkashMondal/github-profile-trophy)
 
 
 - 🔭 I’m currently working on [MyTv App](https://github.com/priyanshu1120/bent-tail-4615)
